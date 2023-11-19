@@ -1,6 +1,6 @@
 # Mi Aplicación Web Progresiva
 
-![Splash Screen](public/img/wolfer.png)
+![Splash Screen](MIAWP/img/wolfer.png)
 
 ## Pantallas de Splash y Home
 
