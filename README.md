@@ -12,5 +12,6 @@
 
 ![Imagen de la Pantalla de Inicio](public/images/home.png)
 
-![Texto Alternativo]([URL de la imagen](https://i.ibb.co/zJ9QFWL/1699821302553.jpg)https://i.ibb.co/zJ9QFWL/1699821302553.jpg)
+![Texto Alternativo](https://i.ibb.co/zJ9QFWL/1699821302553.jpg)
+
 
